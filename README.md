@@ -10,7 +10,7 @@ usar los datos del JSON como una base de datos mockeada, este JSON esta situado 
 Proporcionamos en este repositorio un boilerplate con un stack similar al utilizado en Ucademy, NestJS para el backend y React para
 el frontend.
 
-`git clone git@github.com:UcademyTech/technical-test.git`
+`git clone git@github.com:Jeff909Dev/technical-assessment.git`
 
 `npm install`
 
