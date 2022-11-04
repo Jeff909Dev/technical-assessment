@@ -25,3 +25,9 @@ el frontend.
 - No se proporciona una versión para dispositivos móviles pero si se implementa será valorada positivamente.
 - El uso de Styled components será valorado.
 - El uso de Redux / Zustand será valorado.
+
+
+PD: El objetivo de la prueba es simplemente valorar las desiciones toma el candidato a la hora de realizar la implementación. Hay muchas soluciones válidas a lo que aquí se plantea.
+
+Happy hacking! 
+:D
